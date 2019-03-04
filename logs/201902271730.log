@@ -1,0 +1,25 @@
+2019-02-27 17:30:14,134 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 17:30:14,135 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 17:30:15,890 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 17:30:16,650 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 17:30:17,071 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 17:30:17,075 - BrowserEngin - INFO - 等待10秒
+2019-02-27 17:30:17,315 - BasePage - INFO - da打开站点
+2019-02-27 17:30:20,519 - BasePage - INFO - 输入内容wangwei
+2019-02-27 17:30:20,694 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 17:30:23,855 - BasePage - INFO - 已点击
+2019-02-27 17:30:29,503 - BasePage - INFO - 已点击
+2019-02-27 17:30:30,304 - BasePage - INFO - 已点击
+2019-02-27 17:30:34,122 - BasePage - INFO - 已点击
+2019-02-27 17:30:44,693 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A9B0>页面未能找到('css selector', '.area iframe') 元素
+2019-02-27 17:30:44,694 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:30:55,252 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A9B0>页面未能找到('css selector', '.z span input') 元素
+2019-02-27 17:30:55,253 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:31:05,811 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A9B0>页面未能找到('css selector', '.mbm input') 元素
+2019-02-27 17:31:05,812 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:31:16,465 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A9B0>页面未能找到('css selector', '.mbm p:nth-child(2) input') 元素
+2019-02-27 17:31:16,466 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:31:27,014 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A9B0>页面未能找到('css selector', '.mbm p:nth-child(3) input') 元素
+2019-02-27 17:31:27,014 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:31:34,036 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A9B0>页面未能找到('css selector', '.mtm span') 元素
+2019-02-27 17:31:34,037 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

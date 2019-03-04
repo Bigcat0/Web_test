@@ -1,0 +1,21 @@
+2019-02-27 22:39:14,811 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 22:39:14,827 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 22:39:17,248 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 22:39:18,013 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 22:39:18,418 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 22:39:18,420 - BrowserEngin - INFO - 等待10秒
+2019-02-27 22:39:18,740 - BasePage - INFO - da打开站点
+2019-02-27 22:39:22,025 - BasePage - INFO - 输入内容wangwei
+2019-02-27 22:39:22,258 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 22:39:25,503 - BasePage - INFO - 已点击
+2019-02-27 22:39:31,362 - BasePage - INFO - 已点击
+2019-02-27 22:39:32,300 - BasePage - INFO - 已点击
+2019-02-27 22:39:36,246 - BasePage - INFO - 已点击
+2019-02-27 22:39:36,536 - BasePage - INFO - 输入内容666asbdahdhsb
+2019-02-27 22:39:36,793 - BasePage - INFO - 输入内容2222222222
+2019-02-27 22:39:37,058 - BasePage - INFO - 输入内容3333333333
+2019-02-27 22:39:37,323 - BasePage - INFO - 输入内容44444444444
+2019-02-27 22:39:37,553 - BasePage - INFO - 已点击
+2019-02-27 22:39:52,754 - BasePage - INFO - 已点击
+2019-02-27 22:40:03,302 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D9A8D0>页面未能找到('id', '.pcht tr:nth-last-child(1) button span') 元素
+2019-02-27 22:40:03,302 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

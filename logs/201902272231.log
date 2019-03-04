@@ -1,0 +1,21 @@
+2019-02-27 22:31:59,783 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 22:31:59,783 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 22:32:01,889 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 22:32:02,687 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 22:32:03,117 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 22:32:03,122 - BrowserEngin - INFO - 等待10秒
+2019-02-27 22:32:03,422 - BasePage - INFO - da打开站点
+2019-02-27 22:32:06,688 - BasePage - INFO - 输入内容wangwei
+2019-02-27 22:32:06,899 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 22:32:10,127 - BasePage - INFO - 已点击
+2019-02-27 22:32:16,036 - BasePage - INFO - 已点击
+2019-02-27 22:32:17,041 - BasePage - INFO - 已点击
+2019-02-27 22:32:21,016 - BasePage - INFO - 已点击
+2019-02-27 22:32:21,364 - BasePage - INFO - 输入内容666666666666
+2019-02-27 22:32:21,641 - BasePage - INFO - 输入内容2222222222
+2019-02-27 22:32:21,926 - BasePage - INFO - 输入内容3333333333
+2019-02-27 22:32:22,216 - BasePage - INFO - 输入内容44444444444
+2019-02-27 22:32:22,476 - BasePage - INFO - 已点击
+2019-02-27 22:32:37,726 - BasePage - INFO - 已点击
+2019-02-27 22:32:48,338 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D7A898>页面未能找到('id', '.pollsubmit') 元素
+2019-02-27 22:32:48,338 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

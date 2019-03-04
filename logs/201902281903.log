@@ -1,0 +1,17 @@
+2019-02-28 19:03:04,767 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-28 19:03:04,767 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:03:20,420 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-28 19:03:28,384 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 19:03:28,560 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 19:03:28,563 - BrowserEngin - INFO - 等待10秒
+2019-02-28 19:03:29,067 - BasePage - INFO - da打开站点
+2019-02-28 19:03:32,320 - BasePage - INFO - 输入内容admin
+2019-02-28 19:03:32,453 - BasePage - INFO - 输入内容root
+2019-02-28 19:03:35,609 - BasePage - INFO - 已点击
+2019-02-28 19:03:42,937 - BasePage - INFO - 已点击
+2019-02-28 19:03:43,302 - BasePage - INFO - 输入内容wwwkgsndswwwww
+2019-02-28 19:03:43,989 - BasePage - INFO - 输入内容内容我佛of上峰水ddd泥烦恼是的烦恼是你看看是
+2019-02-28 19:04:21,920 - BasePage - INFO - 已点击
+2019-02-28 19:04:22,236 - BasePage - INFO - 输入内容拉拉阿拉啦啦啦
+2019-02-28 19:04:23,099 - BasePage - INFO - 已点击
+2019-02-28 19:04:23,658 - BasePage - INFO - 已点击

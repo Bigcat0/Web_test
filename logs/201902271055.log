@@ -1,0 +1,17 @@
+2019-02-27 10:55:19,458 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 10:55:19,458 - BrowserEngin - INFO - 测试URL是:http://www.baidu.com
+2019-02-27 10:55:21,061 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 10:55:22,622 - BrowserEngin - INFO - 打开：http://www.baidu.com
+2019-02-27 10:55:22,994 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 10:55:22,998 - BrowserEngin - INFO - 等待10秒
+2019-02-27 10:55:23,643 - BasePage - INFO - da打开站点
+2019-02-27 10:55:26,863 - BasePage - INFO - 输入内容admin
+2019-02-27 10:55:26,991 - BasePage - INFO - 输入内容root
+2019-02-27 10:55:30,149 - BasePage - INFO - 已点击
+2019-02-27 10:55:35,963 - BasePage - INFO - 已点击
+2019-02-27 10:55:36,272 - BasePage - INFO - 已点击
+2019-02-27 10:55:36,832 - BasePage - INFO - 已点击
+2019-02-27 10:55:37,610 - BasePage - INFO - 已点击
+2019-02-27 10:55:37,873 - BasePage - INFO - 已点击
+2019-02-27 10:55:53,498 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D8B8D0>页面未能找到('link text', '退出') 元素
+2019-02-27 10:55:53,498 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

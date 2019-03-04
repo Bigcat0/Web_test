@@ -1,0 +1,14 @@
+2019-02-27 15:44:43,995 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 15:44:43,995 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 15:44:45,989 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 15:44:46,768 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 15:44:47,189 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 15:44:47,194 - BrowserEngin - INFO - 等待10秒
+2019-02-27 15:44:47,476 - BasePage - INFO - da打开站点
+2019-02-27 15:44:50,692 - BasePage - INFO - 输入内容wangwei
+2019-02-27 15:44:50,861 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 15:44:54,023 - BasePage - INFO - 已点击
+2019-02-27 15:44:57,232 - BasePage - INFO - 已点击
+2019-02-27 15:45:02,464 - BasePage - INFO - 输入内容haotest
+2019-02-27 15:45:12,713 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x00000000035FFC50>页面未能找到('css selector', '.td_srchbtn button') 元素
+2019-02-27 15:45:12,713 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

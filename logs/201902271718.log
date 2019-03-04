@@ -1,0 +1,20 @@
+2019-02-27 17:18:48,765 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 17:18:48,766 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 17:18:50,362 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 17:18:51,258 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 17:18:51,719 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 17:18:51,723 - BrowserEngin - INFO - 等待10秒
+2019-02-27 17:18:51,980 - BasePage - INFO - da打开站点
+2019-02-27 17:18:55,207 - BasePage - INFO - 输入内容wangwei
+2019-02-27 17:18:55,386 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 17:18:58,620 - BasePage - INFO - 已点击
+2019-02-27 17:19:04,284 - BasePage - INFO - 已点击
+2019-02-27 17:19:05,023 - BasePage - INFO - 已点击
+2019-02-27 17:19:08,769 - BasePage - INFO - 已点击
+2019-02-27 17:19:09,043 - BasePage - INFO - 输入内容11111111
+2019-02-27 17:19:09,321 - BasePage - INFO - 输入内容2222222222
+2019-02-27 17:19:09,609 - BasePage - INFO - 输入内容3333333333
+2019-02-27 17:19:09,825 - BasePage - INFO - 输入内容44444444444
+2019-02-27 17:19:10,041 - BasePage - INFO - 输入内容555555555555555
+2019-02-27 17:19:20,558 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D5A898>页面未能找到('css selector', '.postsubmit') 元素
+2019-02-27 17:19:20,558 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

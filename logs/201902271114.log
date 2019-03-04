@@ -1,0 +1,17 @@
+2019-02-27 11:14:06,330 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 11:14:06,330 - BrowserEngin - INFO - 测试URL是:http://www.baidu.com
+2019-02-27 11:14:08,126 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 11:14:09,724 - BrowserEngin - INFO - 打开：http://www.baidu.com
+2019-02-27 11:14:10,109 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 11:14:10,112 - BrowserEngin - INFO - 等待10秒
+2019-02-27 11:14:10,703 - BasePage - INFO - da打开站点
+2019-02-27 11:14:13,910 - BasePage - INFO - 输入内容admin
+2019-02-27 11:14:14,028 - BasePage - INFO - 输入内容root
+2019-02-27 11:14:17,170 - BasePage - INFO - 已点击
+2019-02-27 11:14:23,161 - BasePage - INFO - 已点击
+2019-02-27 11:14:23,310 - BasePage - INFO - 已点击
+2019-02-27 11:14:23,858 - BasePage - INFO - 已点击
+2019-02-27 11:14:24,607 - BasePage - INFO - 已点击
+2019-02-27 11:14:24,888 - BasePage - INFO - 已点击
+2019-02-27 11:14:30,082 - BasePage - INFO - 输入内容root
+2019-02-27 11:15:00,563 - BasePage - INFO - 已点击

@@ -1,0 +1,15 @@
+2019-02-27 10:30:21,447 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 10:30:21,447 - BrowserEngin - INFO - 测试URL是:http://www.baidu.com
+2019-02-27 10:30:23,409 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 10:31:04,923 - BrowserEngin - INFO - 打开：http://www.baidu.com
+2019-02-27 10:31:05,376 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 10:31:05,382 - BrowserEngin - INFO - 等待10秒
+2019-02-27 10:31:14,485 - BasePage - INFO - da打开站点
+2019-02-27 10:31:17,685 - BasePage - INFO - 输入内容admin
+2019-02-27 10:31:17,816 - BasePage - INFO - 输入内容root
+2019-02-27 10:31:20,980 - BasePage - INFO - 已点击
+2019-02-27 10:31:26,646 - BasePage - INFO - 已点击
+2019-02-27 10:31:26,970 - BasePage - INFO - 输入内容标题121212dd12
+2019-02-27 10:31:27,284 - BasePage - INFO - 输入内容内容我佛of上峰水ddd泥烦恼是的烦恼是你看看是
+2019-02-27 10:31:32,430 - BasePage - INFO - 已点击
+2019-02-27 10:31:32,832 - BasePage - INFO - 已点击

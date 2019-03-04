@@ -1,0 +1,18 @@
+2019-02-28 19:23:43,028 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-28 19:23:43,029 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:23:44,341 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-28 19:23:45,036 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 19:23:45,253 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 19:23:45,256 - BrowserEngin - INFO - 等待10秒
+2019-02-28 19:23:45,518 - BasePage - INFO - da打开站点
+2019-02-28 19:23:48,724 - BasePage - INFO - 输入内容admin
+2019-02-28 19:23:48,866 - BasePage - INFO - 输入内容root
+2019-02-28 19:23:52,020 - BasePage - INFO - 已点击
+2019-02-28 19:23:57,673 - BasePage - INFO - 已点击
+2019-02-28 19:23:58,045 - BasePage - INFO - 输入内容wwwkgsndswwwww
+2019-02-28 19:23:58,397 - BasePage - INFO - 输入内容内容我佛of上峰水ddd泥烦恼是的烦恼是你看看是
+2019-02-28 19:26:54,149 - BasePage - INFO - 已点击
+2019-02-28 19:26:54,429 - BasePage - INFO - 输入内容拉拉阿拉啦啦啦
+2019-02-28 19:27:04,976 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002DBAA20>页面未能找到('css selector', '.plc button') 元素
+2019-02-28 19:27:04,976 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-28 19:27:05,439 - BasePage - INFO - 已点击

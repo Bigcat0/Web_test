@@ -1,0 +1,36 @@
+2019-02-27 13:48:11,264 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 13:48:11,264 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 13:48:12,837 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 13:48:13,567 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 13:48:13,977 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 13:48:13,979 - BrowserEngin - INFO - 等待10秒
+2019-02-27 13:48:14,198 - BasePage - INFO - da打开站点
+2019-02-27 13:48:17,374 - BasePage - INFO - 输入内容admin
+2019-02-27 13:48:17,509 - BasePage - INFO - 输入内容root
+2019-02-27 13:48:20,649 - BasePage - INFO - 已点击
+2019-02-27 13:48:26,191 - BasePage - INFO - 已点击
+2019-02-27 13:48:36,756 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D6AA90>页面未能找到('name', 'moderate[]') 元素
+2019-02-27 13:48:36,756 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 13:48:47,298 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D6AA90>页面未能找到('link text', '删除') 元素
+2019-02-27 13:48:47,298 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 13:48:57,851 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D6AA90>页面未能找到('css selector', '.tm_c button') 元素
+2019-02-27 13:48:57,851 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 13:48:58,110 - BasePage - INFO - 已点击
+2019-02-27 13:49:03,296 - BasePage - INFO - 输入内容root
+2019-02-27 13:49:26,426 - BasePage - INFO - 已点击
+2019-02-27 13:49:31,796 - BasePage - INFO - 已点击
+2019-02-27 13:49:32,037 - BasePage - INFO - 已点击
+2019-02-27 13:49:32,532 - BasePage - INFO - 已点击
+2019-02-27 13:49:36,047 - BasePage - INFO - 已点击
+2019-02-27 13:49:38,507 - BasePage - INFO - 输入内容wangwei
+2019-02-27 13:49:38,670 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 13:49:41,823 - BasePage - INFO - 已点击
+2019-02-27 13:49:57,392 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D6AA90>页面未能找到('css selector', '.fl_tb h2 a') 元素
+2019-02-27 13:49:57,392 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 13:50:07,948 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D6AA90>页面未能找到('css selector', '.fl_row h2 a') 元素
+2019-02-27 13:50:07,948 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 13:50:08,198 - BasePage - INFO - 输入内容1111111111111111111
+2019-02-27 13:50:08,474 - BasePage - INFO - 输入内容2222222222222222222222222
+2019-02-27 13:50:09,880 - BasePage - INFO - 已点击
+2019-02-27 13:50:20,451 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D6AA90>页面未能找到('css selector', '.bm_c button') 元素
+2019-02-27 13:50:20,451 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

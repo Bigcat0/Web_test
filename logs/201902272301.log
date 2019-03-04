@@ -1,0 +1,50 @@
+2019-02-27 23:01:04,576 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 23:01:04,576 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 23:01:06,639 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 23:01:07,679 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 23:01:08,224 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 23:01:08,227 - BrowserEngin - INFO - 等待10秒
+2019-02-27 23:01:08,552 - BasePage - INFO - da打开站点
+2019-02-27 23:01:11,822 - BasePage - INFO - 输入内容wangwei
+2019-02-27 23:01:12,018 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 23:01:15,183 - BasePage - INFO - 已点击
+2019-02-27 23:01:23,238 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.fl_tb h2 a') 元素
+2019-02-27 23:01:23,238 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 23:01:26,296 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.mn img') 元素
+2019-02-27 23:01:26,296 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 23:01:31,584 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 23:01:31,584 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 23:01:32,348 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('link text', '发起投票') 元素
+2019-02-27 23:01:32,348 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 23:01:33,592 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 23:01:34,489 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 23:01:34,934 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 23:01:34,937 - BrowserEngin - INFO - 等待10秒
+2019-02-27 23:01:35,264 - BasePage - INFO - da打开站点
+2019-02-27 23:01:35,537 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.z span input') 元素
+2019-02-27 23:01:35,537 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 23:01:38,521 - BasePage - INFO - 输入内容wangwei
+2019-02-27 23:01:38,569 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.mbm input') 元素
+2019-02-27 23:01:38,571 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 23:01:38,737 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 23:01:41,605 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.mbm p:nth-child(2) input') 元素
+2019-02-27 23:01:41,605 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 23:01:41,984 - BasePage - INFO - 已点击
+2019-02-27 23:01:44,638 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.mbm p:nth-child(3) input') 元素
+2019-02-27 23:01:44,638 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 23:01:47,684 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.mtm button') 元素
+2019-02-27 23:01:47,687 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 23:01:47,807 - BasePage - INFO - 已点击
+2019-02-27 23:01:48,824 - BasePage - INFO - 已点击
+2019-02-27 23:01:52,709 - BasePage - INFO - 已点击
+2019-02-27 23:01:53,016 - BasePage - INFO - 输入内容666asbdahdhsb
+2019-02-27 23:01:53,301 - BasePage - INFO - 输入内容2222222222
+2019-02-27 23:01:53,583 - BasePage - INFO - 输入内容3333333333
+2019-02-27 23:01:53,883 - BasePage - INFO - 输入内容44444444444
+2019-02-27 23:01:54,153 - BasePage - INFO - 已点击
+2019-02-27 23:02:05,742 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.pslt input') 元素
+2019-02-27 23:02:05,742 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 23:02:08,804 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x000000000368E2B0>页面未能找到('css selector', '.pcht tr:nth-last-child(1) button') 元素
+2019-02-27 23:02:08,804 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 23:02:09,381 - BasePage - INFO - 已点击
+2019-02-27 23:02:10,686 - BasePage - INFO - 已点击

@@ -1,0 +1,29 @@
+2019-02-28 09:06:43,807 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-28 09:06:43,807 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 09:06:45,677 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-28 09:06:46,747 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 09:06:47,126 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 09:06:47,129 - BrowserEngin - INFO - 等待10秒
+2019-02-28 09:06:47,369 - BasePage - INFO - da打开站点
+2019-02-28 09:06:50,582 - BasePage - INFO - 输入内容wangwei
+2019-02-28 09:06:50,770 - BasePage - INFO - 输入内容weishu0124
+2019-02-28 09:06:53,927 - BasePage - INFO - 已点击
+2019-02-28 09:06:59,569 - BasePage - INFO - 已点击
+2019-02-28 09:07:00,384 - BasePage - INFO - 已点击
+2019-02-28 09:07:04,215 - BasePage - INFO - 已点击
+2019-02-28 09:07:04,524 - BasePage - INFO - 输入内容kkkkkkkkkkkkkkkk
+2019-02-28 09:07:04,733 - BasePage - INFO - 输入内容2222222222
+2019-02-28 09:07:04,945 - BasePage - INFO - 输入内容3333333333
+2019-02-28 09:07:05,154 - BasePage - INFO - 输入内容44444444444
+2019-02-28 09:07:05,395 - BasePage - INFO - 已点击
+2019-02-28 09:07:20,553 - BasePage - INFO - 已点击
+2019-02-28 09:07:21,605 - BasePage - INFO - 已点击
+2019-02-28 09:07:21,716 - BasePage - INFO - 以获取
+2019-02-28 09:07:32,286 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D8A908>页面未能找到('css selector', '.pcht tr:nth-child(2) td:nth-child(3)') 元素
+2019-02-28 09:07:32,286 - BasePage - ERROR - 未获取'NoneType' object has no attribute 'text'
+2019-02-28 09:07:32,395 - BasePage - INFO - 以获取
+2019-02-28 09:07:43,003 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D8A908>页面未能找到('css selector', '.pcht tr:nth-child(4) td:nth-child(3)') 元素
+2019-02-28 09:07:43,003 - BasePage - ERROR - 未获取'NoneType' object has no attribute 'text'
+2019-02-28 09:07:43,112 - BasePage - INFO - 以获取
+2019-02-28 09:07:53,658 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D8A908>页面未能找到('css selector', '.pcht tr:nth-child(6) td:nth-child(3)') 元素
+2019-02-28 09:07:53,658 - BasePage - ERROR - 未获取'NoneType' object has no attribute 'text'

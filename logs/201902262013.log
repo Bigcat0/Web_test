@@ -1,0 +1,4 @@
+2019-02-26 20:13:38,887 - BasePage - INFO - da打开站点
+2019-02-26 20:13:48,897 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000003670438>页面未能找到('root',) 元素
+2019-02-26 20:13:48,898 - BasePage - ERROR - Faileed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-26 20:13:49,235 - BasePage - INFO - 保存图片 : /screenshots

@@ -1,0 +1,23 @@
+2019-02-28 08:57:31,719 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-28 08:57:31,719 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 08:57:33,783 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-28 08:57:34,684 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 08:57:35,087 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 08:57:35,090 - BrowserEngin - INFO - 等待10秒
+2019-02-28 08:57:35,336 - BasePage - INFO - da打开站点
+2019-02-28 08:57:38,560 - BasePage - INFO - 输入内容wangwei
+2019-02-28 08:57:38,743 - BasePage - INFO - 输入内容weishu0124
+2019-02-28 08:57:41,932 - BasePage - INFO - 已点击
+2019-02-28 08:57:47,626 - BasePage - INFO - 已点击
+2019-02-28 08:57:48,429 - BasePage - INFO - 已点击
+2019-02-28 08:57:52,254 - BasePage - INFO - 已点击
+2019-02-28 08:57:52,592 - BasePage - INFO - 输入内容kkkkkkkkkkkkkkkk
+2019-02-28 08:57:52,818 - BasePage - INFO - 输入内容2222222222
+2019-02-28 08:57:53,026 - BasePage - INFO - 输入内容3333333333
+2019-02-28 08:57:53,242 - BasePage - INFO - 输入内容44444444444
+2019-02-28 08:57:53,509 - BasePage - INFO - 已点击
+2019-02-28 08:58:08,685 - BasePage - INFO - 已点击
+2019-02-28 08:58:09,689 - BasePage - INFO - 已点击
+2019-02-28 08:58:09,798 - BasePage - INFO - 以获取
+2019-02-28 08:58:20,313 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002D7A8D0>页面未能找到('css selector', '.pcht tr:nth-child(2) td:nth-child(3)') 元素
+2019-02-28 08:58:20,313 - BasePage - ERROR - 未获取'NoneType' object has no attribute 'text'

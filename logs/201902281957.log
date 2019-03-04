@@ -1,0 +1,13 @@
+2019-02-28 19:57:26,249 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-28 19:57:26,249 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-28 19:57:28,357 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-28 19:57:29,183 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 19:57:29,397 - BrowserEngin - INFO - 窗口最大化
+2019-02-28 19:57:29,402 - BrowserEngin - INFO - 等待10秒
+2019-02-28 19:57:29,664 - BasePage - INFO - da打开站点
+2019-02-28 19:57:32,863 - BasePage - INFO - 输入内容wangwei
+2019-02-28 19:57:33,030 - BasePage - INFO - 输入内容weishu0124
+2019-02-28 19:57:36,171 - BasePage - INFO - 已点击
+2019-02-28 19:57:39,366 - BasePage - INFO - 输入内容haotes
+2019-02-28 19:57:39,552 - BasePage - INFO - 已点击
+2019-02-28 19:57:44,797 - BasePage - INFO - 已点击

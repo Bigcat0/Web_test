@@ -1,0 +1,29 @@
+2019-02-27 14:11:09,145 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 14:11:09,145 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-02-27 14:11:10,836 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 14:11:11,624 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-27 14:11:12,048 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 14:11:12,050 - BrowserEngin - INFO - 等待10秒
+2019-02-27 14:11:12,321 - BasePage - INFO - da打开站点
+2019-02-27 14:11:15,516 - BasePage - INFO - 输入内容admin
+2019-02-27 14:11:15,667 - BasePage - INFO - 输入内容root
+2019-02-27 14:11:18,827 - BasePage - INFO - 已点击
+2019-02-27 14:11:24,443 - BasePage - INFO - 已点击
+2019-02-27 14:11:24,696 - BasePage - INFO - 已点击
+2019-02-27 14:11:25,267 - BasePage - INFO - 已点击
+2019-02-27 14:11:26,101 - BasePage - INFO - 已点击
+2019-02-27 14:11:26,354 - BasePage - INFO - 已点击
+2019-02-27 14:11:31,574 - BasePage - INFO - 已点击
+2019-02-27 14:11:32,096 - BasePage - INFO - 已点击
+2019-02-27 14:11:32,512 - BasePage - INFO - 已点击
+2019-02-27 14:11:35,943 - BasePage - INFO - 已点击
+2019-02-27 14:11:38,402 - BasePage - INFO - 输入内容wangwei
+2019-02-27 14:11:38,572 - BasePage - INFO - 输入内容weishu0124
+2019-02-27 14:11:41,729 - BasePage - INFO - 已点击
+2019-02-27 14:11:42,713 - BasePage - INFO - 已点击
+2019-02-27 14:11:43,146 - BasePage - INFO - 已点击
+2019-02-27 14:11:43,456 - BasePage - INFO - 输入内容1111111111111111111
+2019-02-27 14:11:43,756 - BasePage - INFO - 输入内容2222222222222222222222222
+2019-02-27 14:11:45,327 - BasePage - INFO - 已点击
+2019-02-27 14:11:55,871 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000002E0BA20>页面未能找到('css selector', '.bm_c button') 元素
+2019-02-27 14:11:55,871 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

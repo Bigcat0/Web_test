@@ -1,0 +1,20 @@
+2019-02-27 11:42:34,858 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-02-27 11:42:34,858 - BrowserEngin - INFO - 测试URL是:http://www.baidu.com
+2019-02-27 11:42:36,485 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-02-27 11:42:38,080 - BrowserEngin - INFO - 打开：http://www.baidu.com
+2019-02-27 11:42:38,485 - BrowserEngin - INFO - 窗口最大化
+2019-02-27 11:42:38,488 - BrowserEngin - INFO - 等待10秒
+2019-02-27 11:42:39,088 - BasePage - INFO - da打开站点
+2019-02-27 11:42:42,277 - BasePage - INFO - 输入内容admin
+2019-02-27 11:42:42,394 - BasePage - INFO - 输入内容root
+2019-02-27 11:42:45,540 - BasePage - INFO - 已点击
+2019-02-27 11:42:51,284 - BasePage - INFO - 已点击
+2019-02-27 11:42:51,439 - BasePage - INFO - 已点击
+2019-02-27 11:42:51,912 - BasePage - INFO - 已点击
+2019-02-27 11:42:52,661 - BasePage - INFO - 已点击
+2019-02-27 11:42:52,953 - BasePage - INFO - 已点击
+2019-02-27 11:42:58,165 - BasePage - INFO - 已点击
+2019-02-27 11:43:08,719 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000003680860>页面未能找到('css selector', '.lastboard a') 元素
+2019-02-27 11:43:08,719 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'
+2019-02-27 11:43:19,266 - BasePage - ERROR - <pageobjects.Disscuz_homepage.HomePage object at 0x0000000003680860>页面未能找到('css selector', '.fixsel input') 元素
+2019-02-27 11:43:19,266 - BasePage - ERROR - 未点击'NoneType' object has no attribute 'click'

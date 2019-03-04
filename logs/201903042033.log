@@ -1,0 +1,12 @@
+2019-03-04 20:33:05,675 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-03-04 20:33:05,676 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php
+2019-03-04 20:33:07,958 - BrowserEngin - INFO - 启动谷歌浏览器
+2019-03-04 20:33:08,875 - BrowserEngin - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-04 20:33:09,073 - BrowserEngin - INFO - 窗口最大化
+2019-03-04 20:33:09,076 - BrowserEngin - INFO - 等待10秒
+2019-03-04 20:33:09,494 - BasePage - INFO - da打开站点
+2019-03-04 20:33:12,699 - BasePage - INFO - 输入内容admin
+2019-03-04 20:33:12,848 - BasePage - INFO - 输入内容root
+2019-03-04 20:33:16,001 - BasePage - INFO - 已点击
+2019-03-04 20:33:23,806 - BrowserEngin - INFO - 选择Chrome浏览器
+2019-03-04 20:33:23,807 - BrowserEngin - INFO - 测试URL是:http://127.0.0.1/forum.php

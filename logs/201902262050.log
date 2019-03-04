@@ -1,0 +1,8 @@
+2019-02-26 20:50:41,212 - BasePage - INFO - da打开站点
+2019-02-26 20:50:51,534 - BasePage - INFO - 输入内容admin
+2019-02-26 20:50:51,794 - BasePage - INFO - 输入内容root
+2019-02-26 20:50:55,919 - BasePage - INFO - 已点击登录
+2019-02-26 20:51:06,899 - BasePage - ERROR - 未点击Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.1.7601 SP1 x86_64)
+

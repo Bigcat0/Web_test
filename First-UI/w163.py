@@ -1,0 +1,13 @@
+from selenium import webdriver
+driver=webdriver.Chrome("./chromedriver.exe")
+driver.maximize_window()
+driver.implicitly_wait(5)
+driver.get("https://mail.163.com/")
+driver.switch_to_window(driver.current_window_handle)
+driver.switch_to_frame(0)
+name=driver.find_element_by_name("email")
+name.send_keys("123456")
+password=driver.find_element_by_name("password")
+password.send_keys("123456")
+login=driver.find_element_by_id("dologin")
+login.click()
